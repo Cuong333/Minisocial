@@ -1,0 +1,8 @@
+{
+  "name": "HCuongsocial",
+  "version": "1.0.0",
+  "description": "test mini social",
+  "main": "src/server.ts",
+  "author": "HungCuong",
+  "license": "MIT"
+}
