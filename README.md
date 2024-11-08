@@ -1,3 +1,3 @@
 # Tech 
--- Node JS (TypeScript)
--- MongoDB
+- Node JS (TypeScript)
+- MongoDB
